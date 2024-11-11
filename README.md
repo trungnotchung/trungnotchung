@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, welcome to my github 👋
 
 <!-- Light mode -->
 <a href="https://github.com/trungnotchung#gh-light-mode-only">
