@@ -1,4 +1,4 @@
-![image](./assests/header.jpg)
+![image](./assests/header.png)
 
 ## Hello, welcome to my github 👋
 I'm trungnotchung, a student at the University of Engineering and Technology.
