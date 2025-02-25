@@ -1,3 +1,5 @@
+![image](./assests/header.jpg)
+
 ## Hello, welcome to my github 👋
 I'm trungnotchung, a student at the University of Engineering and Technology.
 
