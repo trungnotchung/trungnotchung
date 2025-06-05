@@ -1,10 +1,13 @@
 ![image](./assests/header.png)
 
 ## Hello, welcome to my github 👋
-I'm Trung, a ICPC World Finalist.
+
+I'm Trung, an [ICPC World Finalist](https://worldfinals.icpc.global/).
 
 <!-- Github Stats -->
+
 ## &#x1f4c8; GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats-five-theta-78.vercel.app/api?username=trungnotchung&show_icons=true&line_height=27&count_private=true&title_color=c9cacc&text_color=c9cacc&icon_color=774c54&bg_color=313340" />
   <img src="https://github-readme-stats-five-theta-78.vercel.app/api/top-langs/?username=trungnotchung&hide=shell,java,tex&title_color=c9cacc&text_color=c9cacc&bg_color=313340&langs_count=3" />
@@ -19,7 +22,6 @@ I'm Trung, a ICPC World Finalist.
      />
   </a>
 </div>
-
 
 <!-- Streak stats (Dark mode) -->
 <div align="center">
