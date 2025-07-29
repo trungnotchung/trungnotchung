@@ -2,7 +2,7 @@
 
 ## Hello, welcome to my github 👋
 
-I'm Trung, an [ICPC World Finalist](https://worldfinals.icpc.global/).
+I'm Trung (aka trungnotchung) — a developer who loves anime, especially Ghibli-style.
 
 <!-- Github Stats -->
 
