@@ -1,8 +1,9 @@
 ![image](./assests/header.png)
 
-## Hello, welcome to my github 👋
+## Hello, I'm Trung (aka <font color="black">t</font><font color="#FF0000">rungnotchung</font>) 👋
 
-I'm Trung (aka trungnotchung) — a developer who loves anime, especially Ghibli-style.
+Software engineer at **[Pendle.finance](https://pendle.finance)** • Love anime, music, and Minecraft • Trying to do better
+
 
 <!-- Github Stats -->
 
