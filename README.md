@@ -3,7 +3,7 @@
 ## Hello, I'm Trung (aka <font color="black">t</font><font color="#FF0000">rungnotchung</font>) 👋
 
 **Software Engineer** at [Pendle.finance](https://pendle.finance)  
-**[ICPC World Finalist](https://worldfinals.icpc.global/)** 🏆 | **Former Developer** at [Topoly.gg](https://topoly.gg) & [1six.tech](https://1six.tech)
+**[ICPC World Finalist](https://worldfinals.icpc.global/)** 🏆 | **Former Developer** at [Topoly.gg](https://blog.topology.gg/) & [1six.tech](https://1six.tech)
 
 <!-- Github Stats -->
 
